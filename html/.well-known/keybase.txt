@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/r6by
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://r6by.com
+  * I am r6by (https://keybase.io/r6by) on keybase.
+  * I have a public key ASAX5QbeNWjrxE7mzyr1wbwlNJGNep29TnDJOJXvZwJvtQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012017e506de3568ebc44ee6cf2af5c1bc2534918d7a9dbd4e70c93895ef67026fb50a",
+      "host": "keybase.io",
+      "kid": "012017e506de3568ebc44ee6cf2af5c1bc2534918d7a9dbd4e70c93895ef67026fb50a",
+      "uid": "153a00886c80d2584de9fb0e02e2e819",
+      "username": "r6by"
+    },
+    "merkle_root": {
+      "ctime": 1534959311,
+      "hash": "f9693a9dffca6d8433d6b6d34d64ed4867c016d3797b13c455fec63e9cbcfe1484cecfa0fe1898a09cab299fc64e74b5a746df6124b070beeb9ddce9d5cc8a8f",
+      "hash_meta": "38e4bf7558077ae638d26a4ec4199d46b1760b79f3a47b7a6c9fcce46c1c407c",
+      "seqno": 3500377
+    },
+    "service": {
+      "entropy": "ezydXdLYE4o65KIpQ6Hl5fWG",
+      "hostname": "r6by.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534959327,
+  "expire_in": 504576000,
+  "prev": "a505511fadecae689b993e70724f20b3803ad89e3a946021d66a7def3525531d",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgF+UG3jVo68RO5s8q9cG8JTSRjXqdvU5wyTiV72cCb7UKp3BheWxvYWTESpcCEMQgpQVRH63srmibmT5wck8gs4A62J46lGAh1mp97zUlUx3EIAwna3G+FuvVQDgmlgwhrS4UE1CXJ/TlWGq237qrxFCTAgHCo3NpZ8RA1hIbyh1chUJr+44+qT3/9US6WoiDRXw2YSOYRC8ZyC2jKIN4jd8DVsN1ybdPC7TxnwkpDBf+B/Q0rombKHeUDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDGgk3Pa6w5FBy/q5EA1gIvQkOXLQOpucOSPtpoc/6WYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/r6by
+
+==================================================================
